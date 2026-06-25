@@ -1,0 +1,22 @@
+
+
+
+.output{
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid black;
+    width: 100%;
+   max-width:  400px;
+    
+    margin-left: 220px;
+    margin-top: 20px;
+}
+.output button{
+    height: 30px;
+    width: 70px;
+    margin-top: 15px;
+   background: red;
+   border: 2px solid black;
+   border-radius: 10px;
+
+}

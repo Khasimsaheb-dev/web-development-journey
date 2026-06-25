@@ -1,0 +1,34 @@
+.todo{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    border: none;
+    margin-left: 220px;
+}
+.input{
+   margin-right: 10px;
+   border: 2px solid grey;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   border-radius: 5px;
+   height: 30px;
+   width: 290px;
+}
+.date{
+    margin-right:10px;
+     border: 2px solid grey;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+   border-radius: 5px;
+   height: 30px;
+
+
+}
+.submit{
+    margin-right:10px;
+     border: 2px solid grey;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+   border-radius: 5px;
+   height: 30px;
+background: rgb(9, 145, 9);
+}
