@@ -1,0 +1,6 @@
+.head h1{
+    display: flex;
+    justify-content: center;
+    color: green;
+    margin-bottom: 50px;
+}
